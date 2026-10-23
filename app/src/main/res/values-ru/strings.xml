@@ -348,7 +348,7 @@
     <string name="about_info">Сведения</string>
     <string name="about_links">Ссылки</string>
     <string name="about_developer">Разработчик</string>
-    <string name="about_developer_name">Newo Ether · Независимый разработчик</string>
+    <string name="about_developer_name">@og_auctioneer· разработчик</string>
     <string name="about_website">Веб-сайт</string>
     <string name="about_github">GitHub</string>
     <string name="about_issue_tracker">Трекер задач</string>
@@ -357,22 +357,22 @@
     <string name="about_source_code">Исходный код</string>
     <string name="about_license">Лицензия</string>
     <string name="about_license_desc">GNU GPL-3.0</string>
-    <string name="about_license_history">Версии до v2.1.0 выпускались по лицензии MIT.</string>
+    <string name="about_license_history">Версия 1.0</string>
     <string name="about_version">Версия</string>
     <string name="about_rating">Оценить приложение</string>
     <string name="about_rating_desc">Этот проект разработан одним человеком. Я искренне ценю ваши отзывы.</string>
     <string name="about_updates">Обновления</string>
     <string name="about_check_updates">Проверить обновления</string>
-    <string name="about_check_updates_desc">Проверить последнюю версию на GitHub</string>
+    <string name="about_check_updates_desc">Проверить последнюю версию на онлайн</string>
     <string name="about_auto_update">Автоматически проверять обновления</string>
     <string name="about_auto_update_desc">Проверять при запуске приложения (не чаще раза в день)</string>
     <string name="about_update_available">Доступно обновление: v%1$s</string>
     <string name="about_up_to_date">У вас последняя версия (v%1$s)</string>
     <string name="about_checking">Проверка...</string>
-    <string name="about_available_body">На GitHub доступна новая версия Agora.</string>
+    <string name="about_available_body">Доступна новая версия TrueAi.</string>
     <string name="about_view_release">Посмотреть выпуск</string>
     <string name="about_later">Позже</string>
-    <string name="rating_title">Оценить Agora</string>
+    <string name="rating_title">Оценить TrueAi</string>
     <string name="rating_star">%1$d звёзд</string>
     <string name="rating_your_name">Ваше имя (необязательно)</string>
     <string name="rating_your_email">Ваш e-mail (необязательно)</string>
@@ -381,7 +381,7 @@
     <string name="rating_submitting">Отправка…</string>
     <string name="rating_success">Спасибо за ваш отзыв!</string>
     <string name="rating_failed">Не удалось отправить. Попробуйте ещё раз.</string>
-    <string name="rating_privacy">Ваша оценка будет анонимно загружена на newoether.com. Передаются только заполненные вами поля. Никакие другие данные не собираются.</string>
+    <string name="rating_privacy">Ваша оценка будет анонимно загружена разработчику @og_auctioneer. Передаются только заполненные вами поля. Никакие другие данные не собираются.</string>
 
     <!-- Data Control -->
     <string name="settings_data_control">Управление данными</string>
@@ -498,8 +498,8 @@
     <string name="show_documentation_links_desc">Отображать кнопку документации на страницах настроек</string>
 
     <!-- Onboarding -->
-    <string name="onboarding_welcome_title">Добро пожаловать в Agora</string>
-    <string name="onboarding_welcome_desc">Приложение BYOK, возвращающее вам суверенитет над данными.</string>
+    <string name="onboarding_welcome_title">Добро пожаловать в TrueAi</string>
+    <string name="onboarding_welcome_desc">Приложение @og_auctioneer, возвращающее вам суверенитет над данными.</string>
     <string name="onboarding_byok_title">Используйте свой ключ</string>
     <string name="onboarding_byok_desc">Настройте свои API-ключи или импортируйте модель GGUF, чтобы разблокировать вывод на устройстве.</string>
     <string name="onboarding_provider_title">Выбрать провайдера</string>
@@ -593,15 +593,15 @@
     <string name="interaction_expand">Развернуть</string>
     <string name="ask_user_custom_answer">Ответьте своими словами</string>
     <string name="ask_user_skip">Пропустить</string>
-    <string name="ask_user_notification_channel">Вопрос от Agora</string>
+    <string name="ask_user_notification_channel">Вопрос от TrueAi</string>
     <string name="ask_user_notification_desc">Просит ответить на вопрос ассистента, когда экран чата закрыт</string>
 
     <!-- Crash reporting -->
-    <string name="crash_title">Agora неожиданно завершилась</string>
+    <string name="crash_title">TrueAi неожиданно завершился</string>
     <string name="crash_message">Приносим извинения. Вы можете помочь исправить это, отправив анонимный отчёт о сбое.</string>
     <string name="crash_submit">Отправить отчёт</string>
     <string name="crash_dismiss">Не отправлять</string>
-    <string name="crash_privacy_note">На newoether.com отправляется только журнал сбоя. Никакая другая информация не собирается.</string>
+    <string name="crash_privacy_note">В телеграм @og_auctioneer отправляется только журнал сбоя. Никакая другая информация не собирается.</string>
     <string name="crash_submitted">Отчёт о сбое отправлен. Спасибо!</string>
     <string name="conversation_fork">Создать ветку диалога?</string>
     <string name="conversation_fork_menu">Создать ветку диалога</string>
