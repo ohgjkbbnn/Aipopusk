@@ -28,7 +28,7 @@ android {
     ndkVersion = "28.2.13676358"
 
     defaultConfig {
-        applicationId = "com.newoether.agora"
+        applicationId = "com.yourname.yourapp"
         minSdk = 26
         targetSdk = 36
         versionCode = 31
